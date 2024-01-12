@@ -1,1 +1,1 @@
-#Ejercicios diferentes de MYSQL
+Ejercicios diferentes de MYSQL
